@@ -3,6 +3,7 @@ Sorting Algorithm in C++
 
 Prerequisite:
 VisualStudio 2019 Community edition
+
 Steps to run:
 1) Double click on DataSortingC++.sln (Visual studio project will open)
 2) Right-click on the project name and click on build
